@@ -56,4 +56,4 @@ Real-time clock with UTC timestamp
 The system now provides a complete, professional-grade disaster management platform with predictive capabilities, multi-channel communications, resource coordination, and comprehensive analytics—all with a polished, modern interface featuring smooth animations and intuitive interactions.
 
 
-contact for more or full deployed version (professorshami435@gmail.com)
+contact us for more or private Projects (professorshami435@gmail.com)
