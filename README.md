@@ -8,7 +8,7 @@ Active predictions for severe weather (87%), wildfire (62%), and flood (45%) wit
 Historical prediction tracking with outcome validation
 Predictive model performance charts showing accuracy trends
 2. Enhanced Communication Center
-Real-time chat interface with typing indicators and message threading
+Real-time chat interface with typing indicators and message threading 
 Multi-channel coordination with active participant lists
 Voice broadcast capability with animated wave visualization
 Online personnel tracking with status indicators
